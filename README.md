@@ -12,10 +12,13 @@ For example, `wc filename` will show the counts for the specified file, and `wc 
    My word_cont command
    
 We have 5 files(help, version, wc.c, wc.h and word_count.c)
+
 The main code is word_count.c
 To compile this code use this command:
+
 $gcc word_count.c wc.c -o word_count
 To execute use:
-./word_count <option> <file>
+
+'./word_count <option> <file>'
 
 
