@@ -1,10 +1,10 @@
-world_count(1)                   User Commands                           WC(1)
+word_count(1)                   User Commands                           WC(1)
 
 NAME
-       world_cont - print newline, word, and byte counts for each file
+       word_cont - print newline, word, and byte counts for each file
 
 SYNOPSIS
-       world_cont [OPTION]... [FILE]...
+       word_cont [OPTION]... [FILE]...
 DESCRIPTION
        Print newline, word, and byte counts for each FILE, and a total line if
        more than one FILE is specified.  A word is a non-zero-length  sequence
